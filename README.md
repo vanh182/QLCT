@@ -6,7 +6,7 @@ Chương trình quản lý công ty được phát triển bằng C++ theo phư�
 Chức năng: 
 
 - Để quản lý nhân viên trong công ty, bao gồm người quản lý, nhân viên và công nhân. Các đối tượng được xây dựng thành các lớp để dễ quản lý.
-- Có các chức năng như xem, xóa, cập nhật thông tin, tính lương, điểm thi, tìm kiếm, sắp xếp nhân viên.
+- Có các chức năng như xem, xóa, cập nhật thông tin, tính lương, điểm thi đua, tìm kiếm, sắp xếp nhân viên.
 - Đồng thời chương trình còn có chức năng đọc file, lưu file để quản lý nhân viên trong công ty bao gồm người quản lý, nhân viên, công nhân. 
 
 Mô tả bài toán:

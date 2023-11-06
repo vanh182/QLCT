@@ -36,7 +36,9 @@ thông báo cho người dùng biết và xóa đi phần tử có mã số bị
 17. Đọc file. 
 18. Đọc file và lưu d/s NLDXS. 
 19. Lưu file d/s NLDXS.
+    
     Bài làm
+    
    Vẽ sơ đồ cấu trúc phân cấp (sơ đồ phả hệ) cho các lớp.
    
    ![image](https://github.com/vanh182/QLCT/assets/118065256/1f791787-50ec-4fa2-84e1-8b7bb0601145)

@@ -38,8 +38,10 @@ thông báo cho người dùng biết và xóa đi phần tử có mã số bị
 19. Lưu file d/s NLDXS.
     Bài làm
 1. Vẽ sơ đồ cấu trúc phân cấp (sơ đồ phả hệ) cho các lớp.
+   
    ![image](https://github.com/vanh182/QLCT/assets/118065256/1f791787-50ec-4fa2-84e1-8b7bb0601145)
    Chương trình sau khi hoàn thiện:
+   
    ![image](https://github.com/vanh182/QLCT/assets/118065256/7b544ade-1946-4e86-acc9-f5351a23542d)
    
 
